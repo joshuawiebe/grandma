@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background: linear-gradient(to bottom, #ffefdb, #ffdac1); /* Sanfter Farbverlauf */
+    background: rgb(180, 180, 180);
     text-align: center;
     padding: 20px;
     color: #4A4A4A;
